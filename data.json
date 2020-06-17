@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "Willian Del Freu",
+      "birth": 1590969600000,
+      "gender": "F",
+      "services": "Crossfit, Musculação",
+      "created_at": 1592423048082
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "Willian Del Freu",
+      "birth": 1586217600000,
+      "gender": "M",
+      "services": "Crossfit, Musculação",
+      "created_at": 1592423163117
+    }
+  ]
+}
