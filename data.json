@@ -1,7 +1,20 @@
 {
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Willian Del Freu",
+      "email": "williandf@terra.com.br",
+      "birth": 949363200000,
+      "gender": "M",
+      "blood": "B+",
+      "weight": "99",
+      "height": "180"
+    }
+  ],
   "instructors": [
     {
-      "id": "1",
+      "id": 1,
       "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
       "name": "Willian Del Freu",
       "birth": 454809600000,
